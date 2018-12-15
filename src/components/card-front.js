@@ -11,7 +11,7 @@ export default class CardFront extends Component{
                         </div>
                         <div className="col-xs-6 side-front-content">
                             <h2>Hello</h2>
-                            <p>My name is Katerina. I am a junior developer.</p>
+                            <p>I'm Katerina. I am a novice developer of Ruby ​​on Reals, React.js, html / css.</p>
                         </div>
                     </div>
                 </div>
