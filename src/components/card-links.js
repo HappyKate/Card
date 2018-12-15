@@ -6,7 +6,7 @@ export default class CardLinks extends Component{
         const linksList = profileLinks.map((link,index) =>
             <li key={index}>
                 <a href="#">
-                <i className={'fa fa-${link}'}></i>
+                <i className={`fa fa-${link}`}></i>
         </a>
         </li>
         );
